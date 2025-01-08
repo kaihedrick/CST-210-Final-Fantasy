@@ -4,7 +4,6 @@ Description of the App
 The app is a role-playing game (RPG) where players can create and manage multiple characters, each with distinct attributes and progression. It employs object-oriented programming (OOP) principles to ensure modularity, reusability, and maintainability.
 
 Encapsulation:
-
 Data members like choice, playing, activeCharacter, and characters are private and accessed via public member functions, ensuring controlled interaction with the class.
 
 Abstraction:
