@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\backup C documents\\CST-210\\Final Fantasy 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594D17AB-DC6A-4266-9A16-3DF41B6C7B5C}|Final Fantasy 2\\Final Fantasy 2.vcxproj|F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D17AB-DC6A-4266-9A16-3DF41B6C7B5C}|Final Fantasy 2\\Final Fantasy 2.vcxproj|F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D17AB-DC6A-4266-9A16-3DF41B6C7B5C}|Final Fantasy 2\\Final Fantasy 2.vcxproj|F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D17AB-DC6A-4266-9A16-3DF41B6C7B5C}|Final Fantasy 2\\Final Fantasy 2.vcxproj|F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D17AB-DC6A-4266-9A16-3DF41B6C7B5C}|Final Fantasy 2\\Final Fantasy 2.vcxproj|F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "characters.txt",
+              "DocumentMoniker": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\characters.txt",
+              "RelativeDocumentMoniker": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\characters.txt",
+              "ToolTip": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\characters.txt",
+              "RelativeToolTip": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-08T22:42:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Game.cpp",
+              "RelativeDocumentMoniker": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Game.cpp",
+              "ToolTip": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Game.cpp",
+              "RelativeToolTip": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Game.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T22:41:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Inventory.cpp",
+              "RelativeDocumentMoniker": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Inventory.cpp",
+              "ToolTip": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Inventory.cpp",
+              "RelativeToolTip": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Inventory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T22:41:06.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source1.cpp",
+              "DocumentMoniker": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Source1.cpp",
+              "RelativeDocumentMoniker": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Source1.cpp",
+              "ToolTip": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Source1.cpp",
+              "RelativeToolTip": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Source1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T22:41:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Main.cpp",
+              "ToolTip": "F:\\backup C documents\\CST-210\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Main.cpp",
+              "RelativeToolTip": "..\\Khedrick Final Fantasy\\Khedrick Final Fantasy\\KHedrick Final Fantasy Project\\cpp and h files\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T22:40:56.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 752,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿  Armor.cpp
+  Character.cpp
+  Enemy.cpp
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Enemy.cpp(10,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Event.cpp
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Event.cpp(122,36): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Event.cpp(122,75): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Event.cpp(123,36): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Event.cpp(123,65): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Event.cpp(132,34): warning C4018: '>=': signed/unsigned mismatch
+  Game.cpp
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Game.cpp(153,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Inventory.cpp
+  Item.cpp
+  Main.cpp
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source1.cpp
+  Weapon.cpp
+  Generating Code...
+F:\backup C documents\CST-210\Khedrick Final Fantasy\Khedrick Final Fantasy\KHedrick Final Fantasy Project\cpp and h files\Inventory.cpp(42,1): warning C4715: 'Inventory::operator[]': not all control paths return a value
+  Final Fantasy 2.vcxproj -> F:\backup C documents\CST-210\Final Fantasy 2\Final Fantasy 2\x64\Debug\Final Fantasy 2.exe
