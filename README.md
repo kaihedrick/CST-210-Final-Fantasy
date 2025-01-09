@@ -1,4 +1,4 @@
-This program represents a text-based RPG game built using object-oriented principles. Here's a description of the app based on its structure and design:
+CST-210 Project April 2020 Sophmore year Comp Sci
 
 **Description of the App**
 The app is a role-playing game (RPG) where players can create and manage multiple characters, each with distinct attributes and progression. It employs object-oriented programming (OOP) principles to ensure modularity, reusability, and maintainability.
