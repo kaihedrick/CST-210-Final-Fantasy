@@ -12,7 +12,7 @@ Inheritance and Polymorphism (Potential but not visible in this snippet):
 If the Character class supports subclasses for different character types (e.g., Warrior, Mage), polymorphism could be leveraged to extend functionality.
 
 **Modularity:**
-The Game class centralizes all game-related functionality, keeping it separate from other components like Character or Event, which likely exist in separate files.
+The Game class centralizes all game-related functionality, keeping it separate from other components like Character or Event.
 This separation ensures that each class focuses on a single responsibility.
 
 **Reusability:**
